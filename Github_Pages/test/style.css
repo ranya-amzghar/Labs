@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 50px;
+}
+
+h1 {
+    color: #f0b000;
+    font-size: 45px;
+}
+
+h2 {
+    color: #f0b000;
+}
+
+p {
+    line-height: 1.7;
+}
+
+li {
+    margin-bottom: 10px;
+}
