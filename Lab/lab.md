@@ -1,15 +1,60 @@
-# Lab
+---
+marp: true
+---
+# What is a Lab?
 
-## What is a Lab ?
+**Learn, then teach**
 
-A lab is to search for an informations, tools, and understand how they work it then be able to explain and show it to others.
+---
 
-## Objectif:
+## Plan
 
-- Search
-- Read
-- Pratique
+Search → Read → Think → Questions → Understand
 
-## Role:
+---
 
-A lab helps search and transform knowledge into practical skills, better understand tools and technologies, and learn how to use them independently through research, testing, and demonstrations.
+## 1. Search
+
+- Several sources
+- Reliable, recent
+
+---
+
+## 2. Read
+
+- Take notes
+- Own words
+- Mark unclear parts
+
+---
+
+## 3. Think
+
+- Link ideas
+- Use an example
+- Draw a diagram
+
+---
+
+## 4. Questions
+
+- Where does it break?
+- Each gap = next topic
+- Loop back to Search
+
+---
+
+## 5. Understand
+
+- No jargon
+- Teach someone
+- Refine from feedback
+
+---
+
+## Takeaways
+
+- Learn, then teach
+- Five steps, one loop
+- Gaps guide learning
+- Teaching proves it
