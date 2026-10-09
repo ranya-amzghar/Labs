@@ -2,7 +2,7 @@
 
 ## What is a Lab ?
 
-A lab is to search for an important informations, tools, and understand how they work it then be able to explain and show it to others.
+A lab is to search for an informations, tools, and understand how they work it then be able to explain and show it to others.
 
 ## Objectif:
 
