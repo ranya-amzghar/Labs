@@ -8,3 +8,6 @@
 6. OpenCode
 7. Pandoc
 8. OmniRoute
+9. 2Tup
+10. Design Thinking
+11. Scrum lab
