@@ -13,6 +13,7 @@ theme: default
 2. **Model**
 3. **View**
 4. **Controller**
+5. **Fonctionnement**
 
 ---
 
@@ -38,3 +39,16 @@ La View est la partie visible de l'application.
 
 Le Controller reçoit les requêtes et coordonne le traitement.
 
+---
+
+# Fonctionnement global de MVC
+
+```text
+Utilisateur ── GET /articles ──► Route ──► Controller
+                                              │  ▲
+                                              ▼  │
+                                        Model ⇄ Base de données
+                                              │
+                                              ▼
+Utilisateur ◄────── HTML ◄────────────── View (Blade)
+```
