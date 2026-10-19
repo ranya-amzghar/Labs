@@ -40,7 +40,6 @@ theme: default
 2. Code organisé
 3. Sécurité
 4. Gestion simplifiée des bases de données
-5. Communauté et documentation
 
 ---
 
