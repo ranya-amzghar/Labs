@@ -9,3 +9,7 @@ https://ranya-amzghar.github.io/Test/
 Marp Présentation:
 
 https://ranya-amzghar.github.io/Labs/#1
+
+Laravel presentation:
+
+https://salmouneaymane.github.io/labs-mobile/Laravel/index.html#1
