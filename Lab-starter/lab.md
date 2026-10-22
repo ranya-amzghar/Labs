@@ -117,7 +117,6 @@ style: |
 <div class="cols">
 <div class="col">
 
-<!-- Add VS Code logo: ![w:200](vscode.png) -->
 Visual Studio Code<br>
 1 - Free<br>
 2 - Beginner-friendly
@@ -125,7 +124,6 @@ Visual Studio Code<br>
 </div>
 <div class="col">
 
-<!-- Add JetBrains logo: ![w:200](jetbrains.png) -->
 JetBrains IDEs<br>
 (PyCharm, IntelliJ, PhpStorm)
 
@@ -161,7 +159,6 @@ JetBrains IDEs<br>
 - <span class="hl">GitHub account</span> (also works as your portfolio). GitLab is an alternative.
 - <span class="hl">GitHub Desktop</span> or the GitLens extension if the command line feels heavy at first
 
-<!-- Add logos: ![w:120](git.png) ![w:100](github.png) -->
 
 ---
 
@@ -192,5 +189,3 @@ Java JDK, if you're going the Java or Android route
 - phpMyAdmin (comes with XAMPP) or DBeaver to manage databases
 - MySQL Workbench for visual schema design
 - SQLite for quick, lightweight projects
-
-<!-- Add logos: ![w:120](mysql.png) ![w:120](xampp.png) -->
