@@ -11,7 +11,8 @@
 9. 2Tup
 10. Design Thinking
 11. Scrum lab
-12. prompt:extension
-13. Git
-14. Copilot
-15. POO
+12. Design Thinking
+13. prompt:extension
+14. Git
+15. Copilot
+16. POO
