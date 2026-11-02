@@ -11,4 +11,8 @@
 9. 2Tup
 10. Design Thinking
 11. Scrum lab
-12. Design Thinking
+12. OOP
+13. Copilot
+14. Laravel
+15. prompt:extension
+16. Git
