@@ -7,11 +7,13 @@ Permet d'afficher les differents **articles** et leurs **sections**.
 
 ---
 - Application de news.
-    1. Permet d'afficher les differents articles et leurs sections.
+    1. Afficher les articles.
+    2. Ajouter les articles.
 
 ---
 **Application de news:**
-- [ ]Permet d'afficher les differents articles et leurs sections.
+- [ ]Afficher les articles.
+- [ ]Afficher les sections
 
 ---
 ![Application de news](application)
@@ -29,5 +31,5 @@ Permet d'afficher les differents **articles** et leurs **sections**.
 ---
 
 ```
-Application de news
+    Section, Articles.
 ```
