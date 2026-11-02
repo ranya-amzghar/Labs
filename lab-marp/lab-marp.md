@@ -257,3 +257,10 @@ Espace administrateur : gestion des articles et des catégories.
 ### Conclusion:
 
 Ce projet permet de mettre en pratique les compétences en développement web, notamment la création d'interfaces, la gestion des données et les opérations CRUD.
+
+<!-- to install the package marp CLI a tool help to execute the marp to pdf,ppt -->
+<!-- npm install -g @marp-team/marp-cli -->
+<!-- marp presentation.md --pdf
+marp presentation.md --html
+marp presentation.md --pptx
+--allow-local-files -->
