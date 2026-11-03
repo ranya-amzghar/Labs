@@ -10,9 +10,21 @@
 8. OmniRoute
 9. 2Tup
 10. Design Thinking
-11. Scrum lab
+11. Scrum
 12. OOP
 13. Copilot
 14. Laravel
-15. prompt:extension
+15. Preline
 16. Git
+17. ASCII
+18. PHP Native
+19. Kotlin
+20. ES7 JavaScript
+21. Prompt-Agent-Skills
+22. Communication avec IA
+23. Starter
+24. Planning
+25. Stack
+26. Veille technologique
+27. Errors JS
+28. Agent
