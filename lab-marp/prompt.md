@@ -8,4 +8,4 @@
 6. **Réalisation :** présenter la stack technique et le prototype.
 7. **Conclusion :** présenter le résultat du projet.
 
-Create a presentation marp, sujet: application de news.
+Create a presentation marp, sujet: application de news. And add foreach slide one sentences that presente the content of the slide, Français A1.

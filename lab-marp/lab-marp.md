@@ -163,6 +163,7 @@ style: |
 
 Ce projet permet d'afficher les differents news et leurs section.
 
+<!-- Mon projet est une application pour lire les nouvelles. -->
 ---
 
 ## Problematique: 
@@ -178,7 +179,7 @@ Aujourd'hui, les utilisateurs rencontrent parfois des difficultés pour trouver 
 - Rechercher des informations facilement.
 
 - Disposer d'une interface simple et responsive.
-
+<!-- Les utilisateurs veulent lire les nouvelles facilement. -->
 ---
 
 ## Analyse:
@@ -187,16 +188,14 @@ Aujourd'hui, les utilisateurs rencontrent parfois des difficultés pour trouver 
 
 - Voir les articles.
 - Lire les détails des articles.
-
+<!-- L'application permet de lire et de chercher des nouvelles. -->
 ---
 
 ### Fonctionnalités:
 
-
 Afficher la liste des actualités.
 
 Consulter les détails d'un article.
-
 
 Ajouter des articles.
 
@@ -234,6 +233,8 @@ Section
 ```
 id, nom, couleur, icone, description.
 ```
+
+<!-- Les diagrammes montrent le fonctionnement de mon application. -->
 ---
 ## Réalisation:
 
@@ -253,10 +254,13 @@ Espace utilisateur : affichage et consultation des actualités.
 
 Espace administrateur : gestion des articles et des catégories.
 
+<!-- J'utilise HTML, CSS, JavaScript, PHP et MySQL pour créer mon application. -->
 ---
 ### Conclusion:
 
 Ce projet permet de mettre en pratique les compétences en développement web, notamment la création d'interfaces, la gestion des données et les opérations CRUD.
+<!-- Mon application permet de lire les nouvelles et d'apprendre le développement web. -->
+
 
 <!-- to install the package marp CLI a tool help to execute the marp to pdf,ppt -->
 <!-- npm install -g @marp-team/marp-cli -->
