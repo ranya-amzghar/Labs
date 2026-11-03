@@ -178,6 +178,8 @@ Permettre aux administrateurs de gérer les contenus.
 - Alpine
 - Tailwind
 - MySql
+- Preline
+- Cotline
 <!-- Voici les outils informatiques utilisés pour construire le projet. -->
 ---
 ## Labs:
