@@ -165,7 +165,6 @@ Un site web pour lire et gérer les actualités.
 ## Stack technique:
 
 - Native PHP
-- JavaScript
 - Laravel
 - Alpine JS
 - Tailwind CSS
