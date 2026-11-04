@@ -210,11 +210,14 @@ style: |
 ---
 
 <!-- _class: lead -->
-
+![Solicode](logo_solicode.png) ![Ofppt](ofppt_logo.png)
 # Plan générique de présentation d'un Lab
 
 **Guide de préparation et de présentation**
 <!-- Bonjour, je vais vous présenter le plan de présentation d'un Lab. -->
+**Réalisée par :** Ranya Amzghar
+**Encadrée par :** Essarraj Fouad
+
 ---
 
 # 1. Introduction
