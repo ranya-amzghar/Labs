@@ -158,29 +158,33 @@ Une plateforme web pour consulter et gérer les actualités.
 ---
 ## Application de news:
 
-**Objectifs:**
-
-Centraliser les actualités dans une seule plateforme.
-
-Faciliter la recherche et la consultation des articles.
-
-Organiser les articles par catégories.
-
-Permettre aux administrateurs de gérer les contenus.
+Un site web pour lire et gérer les actualités.
 
 <!-- Le projet est une application de news pour lire et gérer des articles. -->
 ---
 ## Stack technique:
 
-- PHP 
+- Native PHP
 - JavaScript
 - Laravel
-- Alpine
-- Tailwind
+- Alpine JS
+- Tailwind CSS
 - MySql
 - Preline
-- Cotline
+- Kotline
 <!-- Voici les outils informatiques utilisés pour construire le projet. -->
+---
+## Outils de projet:
+
+- Git
+- Github
+- Agents
+- Markdown
+- OpenCode
+- Marp
+- OmniRoute
+- Antigravity
+- Github Copilot
 ---
 ## Labs:
 
