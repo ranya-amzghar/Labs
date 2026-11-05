@@ -3,7 +3,6 @@ marp: true
 theme: default
 paginate: true
 size: 16:9
-
 style: |
   :root {
     --bg: #0B1628;
