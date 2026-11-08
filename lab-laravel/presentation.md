@@ -396,7 +396,7 @@ $produit = Produit::create([
 // Récupération filtrée sans SQL manuel
 $produits = Produit::where('prix', '<=', 300)->get();
 ```
-
+<!-- Eloquent ORM est l'ORM intégré à Laravel qui permet d'interagir avec la base de données en utilisant des modèles PHP, sans écrire directement des requêtes SQL. -->
 <!-- Eloquent simplifie les opérations de base de données grâce à une syntaxe expressive. -->
 ---
 
