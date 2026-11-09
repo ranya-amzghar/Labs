@@ -1,5 +1,6 @@
 ---
 marp: true
+theme: default
 ---
 # What is a Lab?
 
