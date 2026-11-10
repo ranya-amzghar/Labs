@@ -1,6 +1,6 @@
 ---
 name: skill-creator
-description: Creates, structures, reviews, improves, and validates Agent Skills that follow the agentskills.io open standard and work in Google Antigravity. Use when the user asks to create a skill, write a SKILL.md, package agent instructions, or update an existing skill.
+description: Creates, structures, reviews, improves, and validates Agent Skills that follow the agentskills.io open standard and work in Google Antigravity. Also turns one or more README formats into reusable templates when requested. Use for skill authoring or README-template requests.
 ---
 
 # Skill Creator
@@ -77,6 +77,18 @@ The skill body should normally include the sections that are relevant to the tas
 Write instructions as direct commands. Be explicit about decision points, error handling, validation, and expected deliverables. Avoid vague guidance such as "make it good" or "follow best practices" without explaining what that means for the specific task.
 
 Keep the main `SKILL.md` focused and preferably below 500 lines. Use progressive disclosure: move long technical references, detailed examples, schemas, or reusable templates into separate files and link them with relative paths from `SKILL.md`.
+
+### README template requests
+
+When the user asks to create or maintain reusable README templates:
+
+1. Inspect all README files within the scope the user requested and identify each distinct structure; do not assume similar names mean the formats are the same.
+2. Compare the structures with existing reusable templates. Maintain or update the matching template when the structure is the same; create exactly one template for each distinct structure, avoiding duplicates.
+3. Preserve the useful headings and their order. Replace project-specific names, facts, paths, commands, and examples with clear placeholders or short instructions for supplying verified content.
+4. Keep every source README unchanged unless the user explicitly asks to edit or replace it.
+5. Store each template in the `assets/` or `references/` directory of the skill that will use it. Link it from that skill's `SKILL.md`, and update the link if a template moves or is renamed.
+6. Add concise instructions to the relevant skill explaining how to select and fill the template from actual requirements, preserve its structure, and avoid inventing information.
+7. Verify each distinct structure has one appropriate template, all placeholders are understandable, no source-specific facts remain, every link resolves, and the original READMEs are unchanged.
 
 ### 5. Create supporting files only when needed
 

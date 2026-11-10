@@ -91,9 +91,10 @@ try {
 
 ## Commande d'exécution
 
+Depuis la racine du dépôt :
+
 ```bash
-cd lab-php/examples/exceptions
-php exemple.php
+php lab-php/pratique/exceptions/exemple.php
 ```
 
 ## Résultat attendu
@@ -115,4 +116,3 @@ Erreur générale : Une erreur inattendue.
 ## Exercice complémentaire
 
 Créer une exception `ArticleIntrouvableException` qui prend un identifiant d'article. Écrire une fonction `trouverArticle(int $id)` qui lance cette exception si `$id` n'existe pas dans un tableau d'articles.
-

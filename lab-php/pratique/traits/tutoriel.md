@@ -107,9 +107,10 @@ class Section
 
 ## Commande d'exécution
 
+Depuis la racine du dépôt :
+
 ```bash
-cd lab-php/examples/traits
-php exemple.php
+php lab-php/pratique/traits/exemple.php
 ```
 
 ## Résultat attendu
@@ -140,4 +141,3 @@ Dans un projet Laravel, les traits sont utilisés partout :
 ## Exercice complémentaire
 
 Créer un trait `Sluggable` qui génère automatiquement un slug à partir d'un titre (par exemple, `"Mon Article"` → `"mon-article"`). Utiliser ce trait dans la classe `Article` et afficher le slug.
-

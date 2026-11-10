@@ -361,7 +361,6 @@ use App\Models\Produit;
 $p = new Produit("Clavier");
 echo $p->nom; // Clavier
 ```
-
 <!-- Le mot-clé namespace déclare l'espace de noms et use permet d'importer la classe. -->
 
 ---
@@ -395,5 +394,6 @@ echo $article->maintenant(); // 2026-11-09 16:30:00
 - ✅ Savoir déclarer un **namespace** et importer une classe avec `use`.
 - ✅ Créer et utiliser un **trait** pour partager du code entre classes.
 - ✅ Écrire du code PHP **organisé**, **robuste** et **réutilisable**.
+
 
 <!-- Ces trois mécanismes sont fondamentaux pour structurer un projet PHP professionnel. -->
