@@ -242,7 +242,6 @@ style: |
   }
 
 ---
-
 <!-- _class: cover -->
 <!-- _paginate: false -->
 
