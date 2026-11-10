@@ -316,8 +316,7 @@ Un **trait** est un bloc de code réutilisable que l'on peut inclure dans plusie
 - **Organiser les classes** pour éviter les conflits de noms.
 - **Partager du comportement** entre classes sans duplication.
 
-<!-- À compléter : quel problème concret avez-vous rencontré ? -->
-
+<!-- nous avons besoin de gérer les erreurs, organiser les classes et partager le code pour avoir une application bien organisée. -->
 ---
 
 # Solution et pratique
@@ -341,7 +340,7 @@ try {
 }
 ```
 
-<!-- On lance une exception avec throw et on la capture avec try/catch. -->
+<!-- Une exception est un problème qui apparaît pendant l'exécution du programme. -->
 
 ---
 
@@ -387,7 +386,7 @@ $article = new Article();
 echo $article->maintenant(); // 2026-11-09 16:30:00
 ```
 
-<!-- Le mot-clé use à l'intérieur d'une classe intègre les méthodes du trait. -->
+<!-- Un trait permet à plusieurs classes d'utiliser les mêmes méthodes sans répéter le code. -->
 
 ---
 
