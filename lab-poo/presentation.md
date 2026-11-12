@@ -246,9 +246,8 @@ style: |
 
 ![Solicode](logo_solicode.png) ![OFPPT](ofppt_logo.png)
 
-# Lab PHP — Approfondir la programmation orientée objet (POO)
+# Lab POO — Approfondir la programmation orientée objet
 
-**Notions :** classe abstraite, interface, héritage, polymorphisme, encapsulation et membres statiques
 
 **Étudiante :** Ranya Amzghar  
 **Encadrant :** Essarraj Fouad
@@ -404,16 +403,6 @@ class Journalist implements Publishable
     public function getName(): string
     {
         return $this->name;
-    }
-
-    public function getTitle(): string
-    {
-        return 'Journaliste : ' . $this->name;
-    }
-
-    public function publish(): string
-    {
-        return 'Profil journaliste — ' . $this->name;
     }
 }
 
