@@ -1,0 +1,9 @@
+flowchart LR
+    Visitor[Visiteur]
+    Auteur[Lauréat]
+    Admin[Administrateur]
+    System["Blog des Lauréats"]
+
+    Admin ---|"Gère le contenu"| Blog
+    Auteur ---|"Rédige et gère ses articles"| Blog
+    Visiteur ---|"Consulte les articles publiés"| Blog

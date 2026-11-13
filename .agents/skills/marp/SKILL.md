@@ -22,11 +22,15 @@ Utiliser cette skill pour créer ou modifier un fichier de présentation Marp (`
   6. Solution et démonstrations; ajouter des diapositives pratiques si nécessaire.
 - Pour le plan d'un lab, utiliser les rubriques : Introduction & Stack Technique, Définitions, Problème, Solution.
 - Ne pas ajouter de conclusion ou de remerciements; terminer par la solution ou le livrable.
+- Garder les diapositives synthétiques : privilégier des phrases courtes, des listes et des tableaux ; éviter les paragraphes et les blocs de prose.
+- Ne pas créer de diapositive dédiée à la structure du projet : placer l'arborescence détaillée dans `README-generated.md`.
+- Intégrer les démonstrations au fil des diapositives pratiques ; ne pas ajouter de diapositive autonome « Démonstration complète » sauf demande explicite.
 
 ## Exactitude et contenu
 
 - Rédiger en français et adapter le contenu aux sources du lab.
-- Ne pas inventer le problème ou la solution de l'étudiant. Lui demander ces informations avant de rédiger les diapositives correspondantes; à défaut, laisser des emplacements explicites à compléter.
+- Avant de rédiger ou de réécrire les diapositives « Problème et besoin », demander à l'étudiant son problème réel et le besoin correspondant ; ne pas rédiger ces diapositives avant sa réponse, sauf si la demande en cours fournit explicitement leur contenu.
+- Ne pas inventer le problème, le besoin ou la solution de l'étudiant, ni les déduire automatiquement du contexte du projet. Si l'information manque ou si l'étudiant ne répond pas, laisser des emplacements explicites à compléter.
 - Ne pas ajouter de diapositives Quick Start ou Hello World, sauf si l'utilisateur les demande explicitement. Si elles sont demandées, vérifier que les commandes et exemples correspondent à l'environnement réel et déclarer le langage de chaque bloc de code.
 - Expliquer clairement les termes techniques; ne pas présumer que le public les connaît.
 
@@ -35,6 +39,7 @@ Utiliser cette skill pour créer ou modifier un fichier de présentation Marp (`
 - Maintenir une hiérarchie visuelle cohérente, un contraste suffisant et une quantité de texte adaptée à chaque diapositive.
 - Alterner les diapositives sombres et claires lorsque le thème le permet; utiliser `<!-- _class: light -->` pour une diapositive claire.
 - Déclarer le langage des blocs de code (`bash`, `php`, `html`, etc.) et aligner explicitement les colonnes des tableaux Markdown.
+- Dans une diapositive pratique, limiter l'explication de chaque exemple à une seule phrase ; utiliser le code, une liste ou un tableau pour le détail utile.
 
 ## Séparation du sujet et du contexte du projet
 

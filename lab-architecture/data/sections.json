@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Actualités",
+        "description": "Les événements importants du jour."
+    },
+    {
+        "id": 2,
+        "title": "Économie",
+        "description": "Les tendances et les chiffres du marché."
+    },
+    {
+        "id": 3,
+        "title": "Culture",
+        "description": "Les sorties, spectacles et loisirs."
+    }
+]

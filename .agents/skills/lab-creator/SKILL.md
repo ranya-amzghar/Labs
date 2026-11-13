@@ -24,6 +24,11 @@ Pour la mise en forme de la présentation, appliquer aussi la skill `marp`. Pour
 - Préserver les six sections principales du plan générique, leur ordre et leur organisation. Adapter leur contenu aux objectifs, notions et réalisations réels du Lab.
 - Ajouter des diapositives pratiques supplémentaires dans la section 6 si nécessaire pour présenter toutes les notions demandées.
 - Dans la section des définitions, écrire uniquement les définitions générales, sans syntaxe, extraits de code ni exemples. Dans la section pratique, accompagner chaque exemple d'une seule phrase d'explication.
+- Garder les diapositives concises : utiliser des phrases courtes, des listes ou des tableaux plutôt que des paragraphes. Ne pas transformer les diapositives en texte de cours.
+- Avant de rédiger ou de réécrire les diapositives « Problème et besoin », demander à l'étudiant son problème réel et le besoin correspondant. Ne pas rédiger ces diapositives avant sa réponse, sauf si la demande en cours fournit explicitement leur contenu.
+- Ne pas déduire le problème ou le besoin de l'étudiant à partir du contexte général du projet ou du README. Si l'étudiant ne répond pas, garder des champs explicites à compléter.
+- Placer l'arborescence détaillée des fichiers dans `README-generated.md`, pas dans une diapositive « Structure du projet ».
+- Ne pas ajouter de diapositive autonome de démonstration complète ou de Quick Start ; intégrer les démonstrations utiles dans les diapositives pratiques correspondant aux notions, sauf demande explicite.
 - Ne pas ajouter de diapositives Quick Start ou Hello World, sauf demande explicite de l'utilisateur.
 - Ne pas dupliquer le plan de présentation dans le README.
 - Rédiger les contenus du Lab et de la présentation en français. Adapter les explications au niveau et aux objectifs de l'étudiant.
@@ -112,6 +117,9 @@ Before finishing, the agent must:
 - Dans la section 4, expliquer les notions indépendamment du projet technique au moyen de définitions générales uniquement, sans exemples ni code.
 - Dans la section 6, utiliser des exemples inspirés du projet technique pour appliquer les notions étudiées et expliquer chaque exemple en une seule phrase.
 - Ne pas présenter un exemple pédagogique comme une fonctionnalité déjà implémentée dans le projet réel.
+- Limiter les textes de diapositives à des phrases synthétiques, des listes, des tableaux et des exemples de code nécessaires ; éviter les paragraphes explicatifs.
+- Garder les informations détaillées sur l'arborescence et les fichiers dans `README-generated.md`. Ne pas créer de diapositive dédiée à la structure du projet.
+- Répartir les démonstrations dans les diapositives pratiques ; ne pas créer une diapositive distincte « Démonstration complète » sans demande expresse.
 
 - The problem and solution sections must be directly related to the Lab's subject and learning objectives. Do not derive them automatically from the technical project's entities, architecture or features. The technical project should be used only as a practical context for demonstrations, unless the user explicitly provides a project-related problem.
 
