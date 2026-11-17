@@ -258,8 +258,7 @@ style: |
 
 # Plan
 
-- Define et son objectif
-- Comprendre les utilisateurs et leurs besoins
+- Qu'est-ce que Define ?
 - Insights, POV, Problem Statement et HMW
 - Exemple : News Application
 <!-- Voici, le plan de cette présentation -->
@@ -271,7 +270,6 @@ style: |
 
 Elle permet de :
 
-- Comprendre les utilisateurs.
 - Identifier leurs problèmes.
 - Trouver leurs vrais besoins.
 - Formuler le problème clairement.
@@ -280,32 +278,20 @@ Elle permet de :
 
 ---
 
-# 2. Objectif de Define
+# 2. Les techniques
 
-- Identifier le problème principal.
-- Comprendre les besoins des utilisateurs.
-- Organiser les informations.
-- Écrire une problématique claire.
+Pendant l'étape Define, nous utilisons plusieurs techniques pour comprendre et définir le problème de l'utilisateur.
 
+- **Insights** 
+- **Point of View (POV)**
+- **Problem Statement**
+- **How Might We (HMW)** 
 
-<!-- L'objectif de Define est de trouver le problème principal et de le décrire clairement. -->
+<!-- Dans cette étape, nous utilisons quatre techniques pour mieux comprendre les utilisateurs et définir leur problème. -->
+
 ---
 
-# 3. Comprendre les utilisateurs
-
-**Qui ?** Qui utilise l'application ?  
-**Quel problème ?** Quelle difficulté rencontre-t-il ?  
-**Quel besoin ?** De quoi a-t-il besoin ?
-
-### Exemple : News Application
-
-- **Qui ?** Les personnes qui suivent l'actualité.
-- **Problème ?** Les informations sont sur plusieurs sites.
-- **Besoin ?** Trouver les actualités facilement.
-<!-- Nous devons connaître les utilisateurs, leurs problèmes et leurs besoins. -->
----
-
-# 4. Insights
+# 3. Insights
 
 Un **Insight** est une information importante qui nous aide à comprendre le problème.
 
@@ -318,7 +304,7 @@ Un **Insight** est une information importante qui nous aide à comprendre le pro
 <!-- Un insight nous aide à comprendre le vrai besoin derrière un problème. -->
 ---
 
-# 5. Point of View (POV)
+# 4. Point of View (POV)
 
 Le **POV** décrit le problème du point de vue de l'utilisateur.
 
@@ -335,19 +321,22 @@ Le **POV** décrit le problème du point de vue de l'utilisateur.
 <!-- Le POV explique qui est l'utilisateur, son besoin et pourquoi il a ce besoin. -->
 ---
 
-# 6. Problem Statement
+# 5. Problem Statement
 
 Le **Problem Statement** est une phrase qui explique clairement le problème.
+### Sa formule:
 
-### Exemple : News Application
+[Qui] rencontre [quel problème] lorsque [situation], ce qui entraîne [conséquence]
 
-> Les utilisateurs ont du mal à trouver rapidement les actualités, car les informations sont disponibles sur plusieurs sites. Cela leur fait perdre du temps.
+### Exemple 
+
+>Les utilisateurs ont des difficultés à trouver les actualités lorsque les informations sont dispersées sur plusieurs sites, ce qui leur fait perdre du temps.
 
 **Son rôle :** donner une direction claire pour résoudre le problème.
 <!-- Le Problem Statement décrit clairement le problème que nous voulons résoudre. -->
 ---
 
-# 7. How Might We (HMW) ?
+# 6. How Might We (HMW) ?
 
 **HMW** signifie « How Might We? », en français « Comment pourrions-nous ? ».
 
@@ -359,7 +348,7 @@ Cette question transforme un problème en possibilité de trouver des idées.
 <!-- HMW transforme le problème en une question pour chercher des solutions. -->
 ---
 
-# 8. Exemple pratique
+# 7. Exemple pratique
 
 ## News Application
 
@@ -370,7 +359,7 @@ Cette question transforme un problème en possibilité de trouver des idées.
 <!-- Les utilisateurs ont besoin d'un endroit simple pour trouver les actualités rapidement. -->
 ---
 
-# 9. Résultat de Define
+# 8. Résultat de Define
 
 **POV :**  
 Les utilisateurs ont besoin d'un moyen simple pour trouver les actualités, car les informations sont dispersées sur plusieurs sites.
@@ -396,8 +385,4 @@ Define permet de :
 <!-- Define nous aide à comprendre les utilisateurs et à identifier leur vrai problème. -->
 ---
 
-# Merci
-
-Merci pour votre attention.
-
-**Define : comprendre le bon problème avant de chercher la bonne solution.**
+# Merci pour votre attention.
