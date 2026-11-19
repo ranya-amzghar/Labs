@@ -246,21 +246,24 @@ style: |
 
 ## Design Thinking
 
-**Comprendre le problème de l'utilisateur**
+**Comprendre et définir le problème de l'utilisateur**
 
 **Réalisée par :** Ranya Amzghar  
-**Encadrant :** Essarraj Fouad
+**Encadrant :** Es-sarraj Fouad
 <!-- Aujourd'hui, je vais vous présenter l'étape Define du Design Thinking. -->
 
 ---
 
 <!-- _class: light -->
 
-# Plan
-
-- Qu'est-ce que Define ?
-- Insights, POV, Problem Statement et HMW
-- Exemple : News Application
+1. Définition de l'étape Define
+2. Les techniques de Define
+   - Insights
+   - Affinity Diagram
+   - Point of View (POV)
+   - Problem Statement
+   - How Might We (HMW)
+3. Application pratique : News Application
 <!-- Voici, le plan de cette présentation -->
 ---
 
@@ -270,6 +273,7 @@ style: |
 
 Elle permet de :
 
+- Comprendre les difficultés des utilisateurs.
 - Identifier leurs problèmes.
 - Trouver leurs vrais besoins.
 - Formuler le problème clairement.
@@ -280,14 +284,17 @@ Elle permet de :
 
 # 2. Les techniques
 
-Pendant l'étape Define, nous utilisons plusieurs techniques pour comprendre et définir le problème de l'utilisateur.
+Pour définir correctement le problème, nous utilisons plusieurs techniques :
 
-- **Insights** 
-- **Point of View (POV)**
-- **Problem Statement**
-- **How Might We (HMW)** 
+| Technique | Son objectif |
+|---|---|
+| **Insights** | Comprendre les besoins cachés. |
+| **Affinity Diagram** | Organiser les informations par thèmes. |
+| **POV** | Définir le besoin de l'utilisateur. |
+| **Problem Statement** | Décrire clairement le problème. |
+| **HMW** | Transformer le problème en question. |
 
-<!-- Dans cette étape, nous utilisons quatre techniques pour mieux comprendre les utilisateurs et définir leur problème. -->
+<!-- Dans cette étape, voici les techniques pour mieux comprendre les utilisateurs et définir leur problème. -->
 
 ---
 
@@ -304,7 +311,20 @@ Un **Insight** est une information importante qui nous aide à comprendre le pro
 <!-- Un insight nous aide à comprendre le vrai besoin derrière un problème. -->
 ---
 
-# 4. Point of View (POV)
+# 4. Affinity Diagram
+
+Un **Affinity Diagram** est une technique qui permet de regrouper les informations similaires dans différentes catégories.
+
+### Comment le réaliser ?
+
+- Collecter les observations et les idées.
+- Regrouper les informations similaires.
+- Donner un titre à chaque groupe.
+- Identifier les thèmes principaux.
+
+---
+
+# 5. Point of View (POV)
 
 Le **POV** décrit le problème du point de vue de l'utilisateur.
 
@@ -321,55 +341,195 @@ Le **POV** décrit le problème du point de vue de l'utilisateur.
 <!-- Le POV explique qui est l'utilisateur, son besoin et pourquoi il a ce besoin. -->
 ---
 
-# 5. Problem Statement
+# 6. Problem Statement
 
 Le **Problem Statement** est une phrase qui explique clairement le problème.
 ### Sa formule:
 
-[Qui] rencontre [quel problème] lorsque [situation], ce qui entraîne [conséquence]
+**[Qui]** rencontre **[quel problème]** lorsque **[situation]**, ce qui entraîne **[conséquence]**
 
 ### Exemple 
 
 >Les utilisateurs ont des difficultés à trouver les actualités lorsque les informations sont dispersées sur plusieurs sites, ce qui leur fait perdre du temps.
 
-**Son rôle :** donner une direction claire pour résoudre le problème.
-<!-- Le Problem Statement décrit clairement le problème que nous voulons résoudre. -->
+**objectif :** donner une direction claire pour résoudre le problème.
+<!-- Le Problem Statement décrit le problème, la situation dans laquelle il apparaît et ses conséquences. -->
 ---
 
-# 6. How Might We (HMW) ?
+# 7. How Might We (HMW) ?
 
 **HMW** signifie « How Might We? », en français « Comment pourrions-nous ? ».
 
-Cette question transforme un problème en possibilité de trouver des idées.
+C'est une question qui transforme un problème en une opportunité de rechercher des idées et des solutions.
+### Sa formule
 
-**Problème :** Les utilisateurs perdent du temps à chercher les actualités sur plusieurs sites.
+> **Comment pourrions-nous + aider l'utilisateur + répondre à son besoin ?**
 
-**HMW :** « Comment pourrions-nous aider les utilisateurs à trouver facilement les dernières actualités ? »
+### Exemple : News Application
+
+**Problème :**
+
+Les utilisateurs perdent du temps à chercher les actualités sur plusieurs sites.
+
+**HMW :**
+
+> Comment pourrions-nous aider les utilisateurs à trouver facilement les dernières actualités dans un seul endroit ?
 <!-- HMW transforme le problème en une question pour chercher des solutions. -->
 ---
 
-# 7. Exemple pratique
+# 8. Pratique : News Application
 
-## News Application
+Maintenant, appliquons les techniques de Define à notre projet **News Application**.
 
-- **Utilisateur :** les personnes qui veulent suivre l'actualité.
-- **Problème :** les informations sont dispersées sur plusieurs sites.
-- **Besoin :** trouver les actualités facilement et rapidement.
-- **Insight :** les utilisateurs ont besoin d'informations simples et bien organisées.
-<!-- Les utilisateurs ont besoin d'un endroit simple pour trouver les actualités rapidement. -->
+### Objectif de l'application
+
+- Afficher les dernières actualités.
+- Organiser les actualités par catégories.
+- Faciliter la recherche d'informations.
+- Permettre une consultation simple et rapide.
+
+### Situation étudiée
+
+Imaginons que nous avons interrogé des personnes qui suivent régulièrement l'actualité.
+
 ---
 
-# 8. Résultat de Define
+**Exemples d'observations :**
 
-**POV :**  
-Les utilisateurs ont besoin d'un moyen simple pour trouver les actualités, car les informations sont dispersées sur plusieurs sites.
+- Elles visitent plusieurs sites pour lire les actualités.
+- Elles ont du mal à trouver certaines informations.
+- Elles cherchent les actualités par sujet.
+- Elles perdent du temps à changer de site.
 
-**Problem Statement :**  
-Les utilisateurs perdent du temps à chercher les actualités sur différentes plateformes.
+### Insights identifiés
 
-**HMW :**  
-Comment pourrions-nous aider les utilisateurs à trouver les dernières actualités dans un seul endroit ?
-<!-- À la fin de Define, nous avons un POV, un Problem Statement et une question HMW -->
+| Observation | Insight |
+|---|---|
+| Plusieurs sites à consulter | Besoin d'un accès centralisé. |
+| Difficulté à trouver des informations | Besoin d'une recherche simple. |
+| Actualités sur différents sujets | Besoin d'une bonne organisation. |
+
+---
+
+## Diagramme d'affinités 
+
+Organisons les observations des utilisateurs selon leurs similitudes :
+
+<div class="grid">
+  <div class="group blue">
+    <h3>Navigation</h3>
+    <div class="note">Navigation difficile</div>
+    <div class="note">Trop de temps pour chercher</div>
+  </div>
+  <div class="group green">
+    <h3>Organisation</h3>
+    <div class="note">Actualités mal organisées</div>
+    <div class="note">Difficulté à trouver ses sujets préférés</div>
+  </div>
+  <div class="group yellow">
+    <h3>Expérience utilisateur</h3>
+    <div class="note">Trop de publicités</div>
+  </div>
+  <div class="group purple">
+    <h3>Accessibilité</h3>
+    <div class="note">Accès rapide aux dernières actualités</div>
+  </div>
+</div>
+
+<style>
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 22px;
+  margin-top: 25px;
+}
+.group {
+  padding: 15px;
+  border-radius: 12px;
+  text-align: center;
+  min-height: 145px;
+}
+.group h3 {
+  font-size: 21px;
+  margin: 0 0 12px;
+}
+.note {
+  background: white;
+  color: #1e293b;
+  border-radius: 7px;
+  padding: 9px;
+  margin: 7px 0;
+  font-size: 17px;
+}
+.blue { background: #DBEAFE; color: #1E40AF; }
+.green { background: #DCFCE7; color: #166534; }
+.yellow { background: #FEF3C7; color: #92400E; }
+.purple { background: #F3E8FF; color: #6B21A8; }
+</style>
+
+---
+
+# POV
+
+Après l'analyse des informations, nous pouvons définir le besoin de l'utilisateur.
+
+### Notre POV
+
+> Les personnes qui suivent l'actualité ont besoin d'une plateforme simple et organisée parce que les informations sont dispersées sur plusieurs sites.
+
+### Décomposition
+
+| Élément | Notre projet |
+|---|---|
+| Utilisateur | Personnes qui suivent l'actualité |
+| Besoin | Trouver les actualités facilement |
+| Raison | Les informations sont dispersées |
+
+---
+
+# Problem Statement
+
+> Les utilisateurs ont des difficultés à trouver les actualités lorsque les informations sont dispersées sur plusieurs sites, ce qui leur fait perdre du temps.
+
+### Décomposition
+
+| Élément | Notre projet |
+|---|---|
+| Qui ? | Les utilisateurs |
+| Problème ? | Difficulté à trouver les actualités |
+| Situation ? | Informations dispersées sur plusieurs sites |
+| Impact ? | Perte de temps |
+
+---
+
+# How Might We ?
+
+À partir de notre Problem Statement, nous transformons le problème en une question.
+
+### HMW
+
+> Comment pourrions-nous aider les utilisateurs à trouver facilement les dernières actualités dans un seul endroit ?
+
+### Pourquoi cette question ?
+
+- Elle se concentre sur le besoin de l'utilisateur.
+- Elle ouvre plusieurs possibilités de solutions.
+- Elle encourage la créativité de l'équipe.
+
+---
+
+# 9. Résultat final de Define
+
+Voici le résultat de l'application des techniques de Define à notre projet.
+
+| Élément | Résultat |
+|---|---|
+| **Insight** | Besoin d'informations centralisées et organisées. |
+| **Affinity Diagram** | Accès, recherche et organisation. |
+| **POV** | Les utilisateurs ont besoin d'une plateforme simple et organisée. |
+| **Problem Statement** | Les utilisateurs perdent du temps à chercher les actualités sur plusieurs sites. |
+| **HMW** | Comment faciliter l'accès aux dernières actualités dans un seul endroit ? |
+
 ---
 
 # Conclusion
